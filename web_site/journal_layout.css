@@ -1,0 +1,32 @@
+div#header{
+  border: 5px #A8F0F0 solid;
+  background-color: white;
+}
+div#wrapper{
+  margin-left: 10%;
+  margin-right: 10%;
+  border:10px white solid;
+  background-color: white;
+}
+div#article{
+  overflow:auto;
+  background-color: #E8FBFB;
+  margin-top: 10px;
+  padding:5px;
+  border:4px #C2E9E9 solid;
+}
+span.date {
+  border-bottom: 2px blue dashed;
+}
+body{
+  background-image: url("images/background.png");
+}
+#header h1, #header h2{
+ text-align: right;
+}
+#header h2{
+  font-size: 14pt;
+}
+img{
+  float:right;
+}
